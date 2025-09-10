@@ -1,9 +1,16 @@
-# Recipe name
+# Salmon soup
 
 ## Ingredients
 
-- Ingredient 1
-- Ingredient 2
+- Salmon
+- Potatoes
+- Onion
+- Pepper
+- Cream
+- Water
+- Butter
+- Dill
+- Chives
 
 
 ## Instructions

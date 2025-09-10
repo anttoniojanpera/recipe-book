@@ -36,4 +36,6 @@
    - If you're using fresh mint leaves for garnish, sprinkle them on top of the salad for a pop of color and a fresh aroma.
 
 5. **Serve:**
-   - Enjoy the fruit salad as is, or chill it in the refrigerator for about an hour before serving for a refreshing treat.
+   - Serve the fruit salad as is, or chill it in the refrigerator for about an hour before serving for a refreshing treat.
+
+6. **Enjoy!**
